@@ -37,8 +37,8 @@
 }
 
 .homepage-image-container {
-	width: 370px;
-	height: 370px;
+	width: 320px;
+	height: 320px;
 }
 
 .homepage-image-wrapper {
@@ -125,7 +125,7 @@
 
 	.homepage-image-container {
 		padding-top: 50px;
-		padding-bottom: 50px;
+		padding-bottom: 150px;
 		margin-left: 10px;
 		order: 1;
 	}
