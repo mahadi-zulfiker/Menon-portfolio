@@ -27,7 +27,7 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Stockify",
 			description:
 				"Developed Stockify, an advanced online application utilizing Yahoo APIs and SDLC standards, to offer traders enhanced investment tools driven by machine learning and deep learning techniques.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
@@ -36,7 +36,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "1ClickBooks",
 			description:
 				"Developed a user-friendly web application using HTML, CSS, and JavaScript to facilitate a seamless book browsing and purchase experience",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
@@ -45,7 +45,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 3",
+			title: "keylogger",
 			description:
 				"Designed and implemented a Python-based keylogger application to monitor and log keystrokes on Windows systems",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
@@ -54,7 +54,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 4",
+			title: "Sudoku solver",
 			description:
 				"Developed a Python-based Sudoku solver algorithm capable of solving both easy and challenging Sudoku puzzles.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
@@ -63,7 +63,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 5",
+			title: "Digital-Jaynamaz",
 			description:
 				"Engineered a digital prayer mat using Arduino microcontrollers and pressure sensors to detect different prayer positions accurately.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png",
