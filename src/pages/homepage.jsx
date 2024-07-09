@@ -4,10 +4,7 @@ import { Helmet } from "react-helmet";
 import { faLevelUp, faMailBulk } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-	faTwitter,
 	faGithub,
-	faStackOverflow,
-	faInstagram,
 	faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 
