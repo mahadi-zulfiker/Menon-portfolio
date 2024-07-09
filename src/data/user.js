@@ -29,46 +29,46 @@ const INFO = {
 		{
 			title: "Project 1",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Developed Stockify, an advanced online application utilizing Yahoo APIs and SDLC standards, to offer traders enhanced investment tools driven by machine learning and deep learning techniques.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/farzanasrahman/Stockify",
 		},
 
 		{
 			title: "Project 2",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Developed a user-friendly web application using HTML, CSS, and JavaScript to facilitate a seamless book browsing and purchase experience",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/WaterMenon09/1ClickBooks",
 		},
 
 		{
 			title: "Project 3",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Designed and implemented a Python-based keylogger application to monitor and log keystrokes on Windows systems",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/WaterMenon09/Keylogger",
 		},
 
 		{
 			title: "Project 4",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Developed a Python-based Sudoku solver algorithm capable of solving both easy and challenging Sudoku puzzles.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/WaterMenon09/Sudoku-Solver",
 		},
 
 		{
 			title: "Project 5",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Engineered a digital prayer mat using Arduino microcontrollers and pressure sensors to detect different prayer positions accurately.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/WaterMenon09/Digital-Jaynamaz",
 		},
 	],
 };
