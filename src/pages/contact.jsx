@@ -53,21 +53,9 @@ const Contact = () => {
 								{INFO.main.email}
 							</a>
 							. I make an effort to respond to all messages within
-							24 hours, although it may take me longer during busy
-							periods. Alternatively, you can use the contact form
-							on my website to get in touch. Simply fill out the
-							required fields and I'll get back to you as soon as
-							possible. Finally, if you prefer to connect on
-							social media, you can find me on{" "}
-							<a
-								href={INFO.socials.instagram}
-								target="_blank"
-								rel="noreferrer"
-							>
-								{INFO.socials.instagram}
-							</a>
-							. I post regular updates and engage with my
-							followers there, so don't hesitate to reach out.
+							24 hours. Finally, if you prefer to connect on
+							social media, you can find me on The the media's below.
+							so don't hesitate to reach out.
 							Thanks again for your interest, and I look forward
 							to hearing from you!
 						</div>
@@ -76,6 +64,16 @@ const Contact = () => {
 					<div className="socials-container">
 						<div className="contact-socials">
 							<Socials />
+						</div>
+						<div className="contact-socials">
+							<div className="subtitle contact-subtitle">
+								Below is my Address:<h4>
+									{INFO.socials.Address}
+								</h4> & This is my Phone Number:
+								<h4>
+									{INFO.socials.Number}
+								</h4>
+							</div>
 						</div>
 					</div>
 

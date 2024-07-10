@@ -11,6 +11,8 @@ const INFO = {
 		linkedin: "https://www.linkedin.com/in/menon-pranto-9789871a1",
 		stackoverflow: "https://leetcode.com/u/WaterMenon",
 		facebook: "https://www.facebook.com/menon.pranto",
+		Address: "Uttara, Dhaka - 1230 Bangladesh",
+		Number: "+880 1820537186"
 	},
 
 	homepage: {
